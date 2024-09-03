@@ -1,5 +1,5 @@
 
-# Personal Library Management Application
+# Front-End Developer Coding Assessment Part-02 Task-05
 
 ## Introduction
 
@@ -24,8 +24,8 @@ Follow these instructions to set up and run the application locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MahapatroHari/ShipmentX_Part02_Task02.git
-cd ShipmentX_Part02_Task02
+git clone https://github.com/MahapatroHari/ShipmentX_Part02_Task05.git
+cd ShipmentX_Part02_Task05
 ```
 
 ### 2. Install Dependencies
